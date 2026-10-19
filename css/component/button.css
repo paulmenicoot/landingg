@@ -1,0 +1,9 @@
+.button-blue {
+	background-color: red;
+	padding: 15px 20px;
+	border-radius: 15px;
+	color: white;
+	font-weight: bold;
+	font-family: "Libre Caslon Condensed", serif;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
